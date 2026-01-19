@@ -35,7 +35,7 @@ I consider myself a proactive person, if there is something to learn or somethin
         +54 2355419109
     </a>
     <br>
-    <a href="mailto:nachobera1212@gmail.com">
+    <a href="mailto:ignacioberasategui.as@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
       ignacioberasategui.as@gmail.com
     </a>    
